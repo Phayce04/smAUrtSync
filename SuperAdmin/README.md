@@ -1,10 +1,10 @@
 
 
-# 🛠️ Superadmin Portal
+#  Superadmin Portal
 
 This is the **superadmin portal**, the control center of the school system.
 
-## ✨ Features
+##  Features
 - Manage student, teacher, and officer accounts
 - Configure school-wide timetables
 - Approve or reject event requests

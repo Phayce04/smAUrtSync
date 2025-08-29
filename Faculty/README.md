@@ -1,11 +1,11 @@
 
-## 👨‍🏫 `teachers/README.md`
+## `teachers/README.md`
 ```markdown
-# 👨‍🏫 Teacher Portal
+#  Teacher Portal
 
 This is the **teacher portal** for managing classes and students.
 
-## ✨ Features
+##  Features
 - Upload and share learning materials
 - Post grades and performance feedback
 - Manage attendance records

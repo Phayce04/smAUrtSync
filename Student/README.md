@@ -1,8 +1,8 @@
-# 👩‍🎓 Student Portal
+#  Student Portal
 
 This is the **student portal** for the school management system.
 
-## ✨ Features
+##  Features
 - View personal class schedules
 - Check grades and academic performance
 - Submit requirements
