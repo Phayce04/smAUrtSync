@@ -1,4 +1,4 @@
-##  `club_officers/README.md`
+##  `Officers/README.md`
 ```markdown
 #  Club Officers Portal
 

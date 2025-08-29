@@ -1,3 +1,5 @@
+## `Student/README.md`
+```markdown
 #  Student Portal
 
 This is the **student portal** for the school management system.

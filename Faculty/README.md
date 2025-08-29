@@ -1,5 +1,5 @@
 
-## `teachers/README.md`
+## `Faculty/README.md`
 ```markdown
 #  Teacher Portal
 

@@ -1,5 +1,6 @@
 
-
+## `SuperAdmin/README.md`
+```markdown
 #  Superadmin Portal
 
 This is the **superadmin portal**, the control center of the school system.
